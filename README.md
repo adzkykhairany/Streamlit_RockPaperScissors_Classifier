@@ -12,6 +12,8 @@ Clone the repository and install the required dependencies:
 ```bash
 git clone https://github.com/yourusername/Streamlit_RockPaperScissors_Classifier.git
 cd Streamlit_RockPaperScissors_Classifier
+git lfs install  # Install Git LFS if not already installed
+git lfs pull     # Pull the large files stored with LFS
 pip install -r requirements.txt
 ```
 
