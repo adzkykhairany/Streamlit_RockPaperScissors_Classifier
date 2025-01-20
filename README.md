@@ -26,6 +26,6 @@ streamlit run app.py
 ## Screenshots  
 Here are some screenshots of the application in action:  
 
-![Interface](screenshots/RPS.jpg)  
+![Interface](assets/screenshots/RPS.jpg)  
 
 Let me know if you want any modifications! 🚀
